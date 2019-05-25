@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    margin: 30px 100px;
+}
+
+.main{
+    background-color: rgb(255, 240, 247);
+}
+
+.content{
+    color: rgb(43, 55, 226)
+}
